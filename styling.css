@@ -1,0 +1,119 @@
+body {
+    margin: 0 80px;
+    display: flex;
+    flex-direction: column;
+}
+.navbar {
+    width: 88%;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+}
+
+.titleSection1 {
+    width: 70%;
+    padding-left: 40px;
+}
+
+.titleSection2 {
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+}
+.mypic {
+    height: 35px;
+    border-radius: 50%;
+}
+
+.banner{
+    margin-top: 150px;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.search-receipes {
+    display: flex;
+    width: 100%;
+    margin: 30px 0;
+}
+
+.searchInput {
+    width: 97%;
+    height: 30px;
+    background-color: #F3F3F3;
+    border: none;
+}
+
+.search-button {
+    background-color: #509E2F;
+    color: white;
+    border: none;
+}
+
+.button1 {
+    background-color: #EAAA00;
+    color: #F3F3F3;
+    width: 20%;
+    height: 90px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.button2 {
+    background-color: #C4D600;
+    color: #F3F3F3;
+    width: 20%;
+    height: 90px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.button3 {
+    background-color: #DC582A;
+    color: #F3F3F3;
+    width: 20%;
+    height: 90px;
+    border: none;
+    border-radius: 10px;
+}
+
+.menuAndRating {
+    display: flex;
+    margin: 30px 0;
+}
+
+.rating {
+    width: 35%;
+}
+
+.footerbar1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footersection1 {
+    width: 20%;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.footersection4 {
+    width: 30%;
+}
+
+.footerbar2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
